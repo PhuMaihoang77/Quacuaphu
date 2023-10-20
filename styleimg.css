@@ -1,0 +1,16 @@
+body {
+    background-image: url(./Hai1.png);
+}
+
+
+.anh {
+    position: absolute;
+    margin: 300px 0px 0px 450px;
+    font-size: 30px;
+}
+
+@media (max-width: 768px) {
+    body {
+        font-size: 14px;
+    }
+}
